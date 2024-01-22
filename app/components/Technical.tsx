@@ -1,9 +1,10 @@
 import React from "react";
+import NonTechnical from "./NonTechnical";
 
 const Technical = () => {
   return (
     <>
-      <div className="flex flex-col space-y-8 justify-center items-center">
+      <div className="flex flex-col pt-44 md:pt-0 lg:pt-0 xl:pt-0 space-y-8 justify-center items-center">
         <div className="text-4xl font-bold animate-pulse">Technical Events</div>
           <div className="flex flex-wrap justify-center items-center space-y-5 space-x-5">
             <div className="flex flex-col justify-center items-center group relative pt-4 w-72">
@@ -112,6 +113,7 @@ const Technical = () => {
             </div>
         </div>
       </div>
+      <NonTechnical/>
     </>
   );
 };

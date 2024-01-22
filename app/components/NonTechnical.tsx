@@ -1,10 +1,11 @@
 import React from "react";
+import Location from "./Location";
 
 const NonTechnical = () => {
   return (
     <>
       <div className="flex flex-col space-y-8 justify-center items-center">
-        <div className="text-4xl font-bold animate-pulse">Non-Technical Events</div>
+        <div className="text-4xl font-bold animate-pulse flex justify-center items-center text-center">Non-Technical Events</div>
           <div className="flex flex-wrap justify-center items-center space-y-5 space-x-5">
             <div className="flex flex-col justify-center items-center group relative pt-4 w-72">
               <div className="h-96 flex flex-col justify-center items-center text-center bg-gradient-to-r from-gray-100 via-gray-100 to-white bg-white text-black animate-pulse rounded-3xl overflow-hidden transition-transform transform hover:scale-105 group-hover:overflow-visible group-hover:transform-none p-8">
@@ -112,6 +113,7 @@ const NonTechnical = () => {
             </div>
         </div>
       </div>
+      <Location/>
     </>
   );
 };
