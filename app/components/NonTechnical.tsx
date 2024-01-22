@@ -48,7 +48,7 @@ const NonTechnical = () => {
             </div>
             <div className="flex flex-col justify-center items-center group relative h-96 w-72">
               <div className="h-96 flex flex-col justify-center items-center text-center bg-gradient-to-r from-gray-100 via-gray-100 to-white bg-white text-black animate-pulse rounded-3xl overflow-hidden transition-transform transform hover:scale-105 group-hover:overflow-visible group-hover:transform-none p-8">
-                <div className="text-2xl font-bold">Isekai-Baka's</div>
+                <div className="text-2xl font-bold">Isekai Baka&rsquo;s</div>
                 <div className="mt-4 group-hover:hidden">Empowers users to transform data into actionable insights through intuitive visualizations.</div>
                 <div className="hidden group-hover:block pointer-events-none">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam
@@ -61,7 +61,7 @@ const NonTechnical = () => {
             </div>
             <div className="flex flex-col justify-center items-center group relative h-96 w-72">
               <div className="h-96 flex flex-col justify-center items-center text-center bg-gradient-to-r from-gray-100 via-gray-100 to-white bg-white text-black animate-pulse rounded-3xl overflow-hidden transition-transform transform hover:scale-105 group-hover:overflow-visible group-hover:transform-none p-8">
-                <div className="text-2xl font-bold">Square-off Smack Down</div>
+                <div className="text-2xl font-bold">Square Off Smack Down</div>
                 <div className="mt-4 group-hover:hidden">Unleash innovation, code creativity, and tackle challenges.</div>
                 <div className="hidden group-hover:block pointer-events-none">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam

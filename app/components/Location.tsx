@@ -22,7 +22,6 @@ const Location = () => {
           <div>74VX+QP7, Kolkata Highway, Panjetty, Tamil Nadu 601204</div>
         </div>
       </div>
-
       <Footer />
     </>
   );
