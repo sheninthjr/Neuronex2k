@@ -11,7 +11,7 @@ const About = () => {
         </div>
       </div>
       <div className="lg:w-1/2 flex flex-col justify-center items-center text-center p-8 lg:pl-8">
-        <div className="text-white font-serif text-2xl p-4 text-justify">
+        <div className="text-white font-serif text-2xl p-4 text-center">
           Velammal Institute of Technology aims at excellence in research and
           is fully committed to developing and promoting research activity.
           Research, both pure and applied, being an essential academic

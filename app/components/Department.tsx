@@ -7,7 +7,7 @@ const Department = () => {
       <div>
         <div className="lg:w-full flex flex-col lg:flex-row justify-between h-96">
           <div className="lg:w-1/2 flex justify-center items-center text-center p-8">
-            <div className="text-white font-serif text-2xl p-4 text-justify">
+            <div className="text-white font-serif text-2xl p-4 text-center">
               NEURONEX - Towards Advance Level of Science is a symposium of
               annual occurrence conducted by the department of Artificial
               Intelligence and Data Science to showcase the importance of their
